@@ -3,6 +3,8 @@
 This repository contains the modelling code and Exploratory Data Analysis done for ZS Data Science Challenge 2019.Link for the challenge is:
 https://www.interviewbit.com/contest/zs-yds-2019/
 
+Dataset - Every goal scored by ronaldo along with each goal details.
+
 This repository includes two notebooks:
   1. EDA.ipynb - for data preprocessing, data wrangling, data visualization and feature engineering.
   2. Model.ipynb - for predictive modelling.
